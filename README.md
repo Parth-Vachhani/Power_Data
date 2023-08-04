@@ -1,6 +1,9 @@
-# Power_Data (University Project):
-- Project made from my side with having basic knowledge of Python and Weather data and under guidence of my data science Professor.
-- I have created this Python file as per my knowledge. Making comparison of two different places "United State(Los Angeles)" and "Germany(Frankfurt)".
-- I have first of all done cleaning, removing unwanted columns, renaming the columns and than compared data as per month.
+# Power_Data (Complete Project):
 
-Completion date (03/2023)
+## Aim of this Project:
+- Compare the available data of this country with the United states or an other country if you want.
+- Generate charts from the extracted data, also generate comparative diagrams as many as make sense to you.
+- Find out so much information as possible. What information was stored there? What entries can you find for special column contents?
+
+## Dataset Description:
+The data is obtained from Power | Data Access Viewer (nasa.gov) weather website. The size of the dataset is 90 rows x 13 columns. It contains 90 data points and 13 parameters denoting different data features.
