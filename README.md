@@ -7,3 +7,10 @@
 
 ## Dataset Description:
 The data is obtained from Power | Data Access Viewer (nasa.gov) weather website. The size of the dataset is 90 rows x 13 columns. It contains 90 data points and 13 parameters denoting different data features.
+
+
+## Install all librabries:
+ 1. Pandas
+ 2. Numpy
+ 3. Matplotlib
+ 4. Seaborn
