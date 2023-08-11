@@ -14,3 +14,11 @@ The data is obtained from Power | Data Access Viewer (nasa.gov) weather website.
  2. Numpy
  3. Matplotlib
  4. Seaborn
+
+
+## GitHub:
+By using git commands:
+- git add
+- git status
+- git commit
+- git push
