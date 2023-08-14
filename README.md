@@ -8,13 +8,11 @@
 ## Dataset Description:
 The data is obtained from Power | Data Access Viewer (nasa.gov) weather website. The size of the dataset is 90 rows x 13 columns. It contains 90 data points and 13 parameters denoting different data features.
 
-
 ## Install all librabries:
  1. Pandas
  2. Numpy
  3. Matplotlib
  4. Seaborn
-
 
 ## GitHub:
 By using git commands:
@@ -28,3 +26,8 @@ By using git commands:
 2. Find out the shape of the data.
 3. Total null value present in the dataset.
 4. Check datatypes.
+
+### Data Cleaning:
+1. Drop all those unnecessary columns with all the null values and will not require further analysis.
+2. Dropping the null rows from the dataset, as they will be having unique entries only.
+6. Adding new updated columns.
