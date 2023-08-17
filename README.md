@@ -30,4 +30,9 @@ By using git commands:
 ### Data Cleaning:
 1. Drop all those unnecessary columns with all the null values and will not require further analysis.
 2. Dropping the null rows from the dataset, as they will be having unique entries only.
-6. Adding new updated columns.
+3. Adding new updated columns.
+
+### Visualization:
+1. Pie Chart,
+2. Line Chart,
+3. Bar Plot.
