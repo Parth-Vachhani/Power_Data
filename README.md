@@ -38,3 +38,4 @@ By using git commands:
 3. Bar Plot.
 
 ## Conclusion:
+- It was my first project, from which, I learned how to import data, how to analyze data, how to compare two different data, how to remove the column and clean the data and how to do visulization via different graphs.
